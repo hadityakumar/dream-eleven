@@ -101,7 +101,7 @@ The chatbot explains player selection based on recent form, historical performan
 **Screenshots of the Application**  
 | Screenshot 1   | Screenshot 2   | Screenshot 3   |  
 |----------------|----------------|----------------|  
-| ![Demo1](public/Screenshot (1).png)   | ![Demo2](public/Screenshot (2).png)   | ![Demo3](public/Screenshot (3).png)   |  
+| ![Demo1](public/Screenshot1.png)   | ![Demo2](public/Screenshot2.png)   | ![Demo3](public/Screenshot3.png)   |  
 
 **Demo Video**  
 [Watch the Full Demo](public/demo.mp4)
