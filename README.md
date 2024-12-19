@@ -96,15 +96,25 @@ The chatbot explains player selection based on recent form, historical performan
 
 ---
 
+Here’s the updated **Demos** section with larger images displayed one below the other:
+
+---
+
 ## 📸 Demos  
 
 **Screenshots of the Application**  
-| Screenshot 1   | Screenshot 2   | Screenshot 3   |  
-|----------------|----------------|----------------|  
-| ![Demo1](public/Screenshot1.png)   | ![Demo2](public/Screenshot2.png)   | ![Demo3](public/Screenshot3.png)   |  
+
+**Screenshot 1**  
+![Demo1](public/Screenshot1.png)  
+
+**Screenshot 2**  
+![Demo2](public/Screenshot2.png)  
+
+**Screenshot 3**  
+![Demo3](public/Screenshot3.png)  
 
 **Demo Video**  
-[Watch the Full Demo](public/demo.mp4)
+[Watch the Full Demo](public/demo.mp4)  
 
 ---
 
