@@ -1,4 +1,4 @@
-# 🏏 Fantasy Cricket Team Generator for Dream11
+# **Innovative Solution for Inter IIIT Tech Meet 13.0**
 
 ### 🚀 Problem Statement - Inter IIIT Tech Meet 13.0  
 This project was developed as part of the **Inter IIIT Tech Meet 13.0** to tackle a challenging problem: **Create an AI-powered solution to generate winning fantasy cricket teams on Dream11.** The objective was to predict player performance based on historical cricket data and contextual factors, ensuring the selection of an optimal team lineup for maximum points.
@@ -80,7 +80,7 @@ The chatbot explains player selection based on recent form, historical performan
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png) LinkedIn](https://linkedin.com/in/hadityakumar)
+[![LinkedIn] LinkedIn](https://linkedin.com/in/hadityakumar)
 
 ---
 
