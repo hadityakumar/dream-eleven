@@ -31,7 +31,7 @@ This application integrates cutting-edge technologies across **frontend**, **bac
 | **TypeScript**    | Typed superset of JavaScript.         | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="40"> |
 | **Node.js**       | Backend runtime environment.          | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40"> |
 | **XGBoost**       | Gradient boosting machine learning.   | <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="XGBoost" width="40"> |
-| **OpenAI API**    | Chatbot for answering team queries.   | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/OpenAI_Logo.svg" alt="OpenAI" width="40"> |
+| **OpenAI API**    | Chatbot for answering team queries.   | <img src="https://commons.wikimedia.org/wiki/File:OpenAI_Logo.svg#/media/File:OpenAI_Logo.svg" alt="OpenAI" width="40"> |
 
 ---
 
@@ -57,7 +57,7 @@ Our **XGBoost**-based model was meticulously crafted to predict player performan
   - Handling **retired players** and ensuring accurate predictions for their historical performance.  
   - Managing **future dates** effectively to avoid data leakage.  
 
-[**View the Machine Learning Model Repository**](#)
+[**View the Machine Learning Model**](https://www.kaggle.com/code/adityakumar2003/dream11-final-model)
 
 ---
 
@@ -125,33 +125,16 @@ The chatbot explains player selection based on recent form, historical performan
    ```bash
    npm run dev
    ```
-   Access the app at [http://localhost:3000](http://localhost:3000).
+   Access the app at [localhost](http://localhost:3000).
 
 ### Backend Setup
 - Start the backend server:
-  ```bash
-  npm run start
-  ```
-
-### Machine Learning API
-- Clone the ML model repository:
-  ```bash
-  git clone https://github.com/your-repo/ml-model.git
-  cd ml-model
-  ```
-- Install Python dependencies:
-  ```bash
-  pip install -r requirements.txt
-  ```
-- Start the Flask API server:
-  ```bash
-  python app.py
-  ```
+  Refer to [Edge11 Backend](https://github.com/hadityakumar/Edge11backend)
 
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn] LinkedIn](https://linkedin.com/in/hadityakumar)
+[LinkedIn](https://linkedin.com/in/hadityakumar)
 
 ---
 
