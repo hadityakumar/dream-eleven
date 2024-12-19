@@ -31,7 +31,7 @@ This application integrates cutting-edge technologies across **frontend**, **bac
 | **TypeScript**    | Typed superset of JavaScript.         | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="40"> |
 | **Node.js**       | Backend runtime environment.          | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40"> |
 | **XGBoost**       | Gradient boosting machine learning.   | <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="XGBoost" width="40"> |
-| **OpenAI API**    | Chatbot for answering team queries.   | <img src="https://commons.wikimedia.org/wiki/File:OpenAI_Logo.svg#/media/File:OpenAI_Logo.svg" alt="OpenAI" width="40"> |
+| **OpenAI API**    | Chatbot for answering team queries.   | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/390px-OpenAI_Logo.svg.png" alt="OpenAI" width="40"> |
 
 ---
 
@@ -111,7 +111,10 @@ Here’s the updated **Demos** section with larger images displayed one below th
 ![Demo2](public/Screenshot2.png)  
 
 **Screenshot 3**  
-![Demo3](public/Screenshot3.png)  
+![Demo3](public/Screenshot3.png) 
+
+**Screenshot 4**  
+![Demo3](public/Screenshot4.png) 
 
 **Demo Video**  
 [Watch the Full Demo](public/demo.mp4)  
