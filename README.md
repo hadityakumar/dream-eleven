@@ -1,7 +1,3 @@
-Here's the updated README.md content:
-
----
-
 # 🏏 Fantasy Cricket Team Generator for Dream11
 
 ### 🚀 Problem Statement - Inter IIIT Tech Meet 13.0  
@@ -27,7 +23,7 @@ This application integrates cutting-edge technologies across **frontend**, **bac
 | **TypeScript**    | Typed superset of JavaScript.         | ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg) |
 | **Node.js**       | Backend runtime environment.          | ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) |
 | **XGBoost**       | Gradient boosting machine learning.   | ![XGBoost](https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png) |
-| **OpenAI API**    | Chatbot for answering team queries.   | ![OpenAI](https://upload.wikimedia.org/wikipedia/commons/6/6e/OpenAI_Logo.svg) |
+| **OpenAI API**    | Chatbot for answering team queries.   | ![OpenAI](https://commons.wikimedia.org/wiki/File:OpenAI_Logo.svg#/media/File:OpenAI_Logo.svg) |
 
 ---
 
