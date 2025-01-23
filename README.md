@@ -2,7 +2,7 @@
 
 This project was developed as a solution to a complex and competitive problem statement presented at **Inter IIT Tech Meet 13.0**. The challenge involved creating a comprehensive system to **predict cricket player performances** and recommend **winning fantasy cricket teams** for Dream11. This solution had to consider a multitude of factors, including historical player data, match contexts, and team strategies, all while delivering reliable, real-time outputs.
 
-Deployed at [Edge11](https://pui-dream11.team57.in/)
+Deployed at [Edge11](https://dream-eleven-gold.vercel.app/)
 
 Presentation at [Link](public/team_57_dream11.pdf)
 
